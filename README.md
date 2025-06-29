@@ -1,7 +1,6 @@
 🧠 PyBot: A ChatGPT-Powered Desktop Chatbot
 PyBot is a sleek desktop chatbot built with Python and Tkinter, powered by OpenAI’s GPT API. It mimics natural conversation and offers intelligent, friendly responses through a simple yet elegant GUI.
 screenshot-placeholder
-<sub>Chat with a virtual assistant right from your desktop.</sub>
 
 ✨ Features
 - 🪄 Intuitive Tkinter-based GUI
