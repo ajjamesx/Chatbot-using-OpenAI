@@ -9,6 +9,7 @@ screenshot-placeholder
 - ⚠️ Gracefully handles API issues and rate limits
 - 🛠 Easy to extend with custom prompts or functionality
 
+
 🚀 Getting Started
 1. Clone the Repo
 git clone https://github.com/yourusername/pybot-chatbot.git
@@ -60,5 +61,3 @@ pybot-chatbot/
 
 📜 License
 This project is released under the MIT License.
-
-If you’d like, I can also generate a polished requirements.txt, project logo, or help you push it to GitHub. Want to name the assistant something cooler than "PyBot"?
